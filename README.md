@@ -1,0 +1,2 @@
+# CalculadoraIMC
+ A CalculadoraIMC é um projeto desenvolvido para fornecer uma ferramenta simples e eficaz para calcular o Índice de Massa Corporal (IMC). O IMC é uma medida amplamente utilizada para avaliar se uma pessoa está dentro do peso ideal em relação à sua altura. Este repositório contém o código-fonte e a documentação necessários para implementar uma calculadora de IMC em diferentes plataformas.
